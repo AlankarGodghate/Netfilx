@@ -94,6 +94,7 @@ a {
   display: flex;
   justify-content: center;
   margin-top: 10px;
+  margin-bottom: 80px;
 }
 
 .ib input {
@@ -119,4 +120,26 @@ a {
   padding-left: 15px;
   font-size: 15px;
   color: rgb(167, 179, 179);
+}
+
+.main-container {
+  background-color: rgb(17, 17, 22);
+}
+
+.div-1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.div-1 img {
+  border-radius: 10px;
+  height: 230px;
+  width: 200px;
+  margin-top: 50px;
+}
+
+.tn {
+  padding-left: 60px;
+  padding-top: 20px;
+  color: white;
 }
