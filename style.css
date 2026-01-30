@@ -143,3 +143,94 @@ a {
   padding-top: 20px;
   color: white;
 }
+
+.div {
+  height: 200px;
+  width: 350px;
+  border-radius: 10px;
+  background-color: rgb(27, 27, 54);
+}
+
+.div-2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.div2h1 {
+  color: white;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.div2h2 {
+  padding-left: 25px;
+  padding-top: 30px;
+  color: white;
+}
+
+.div2p {
+  padding-left: 23px;
+  margin-top: 7px;
+  color: rgb(246, 229, 229);
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.container2 {
+  padding-bottom: 30px;
+}
+
+.container3h1 {
+  color: white;
+  padding-left: 35px;
+  margin-bottom: 30px;
+}
+
+.div3_1 {
+  height: 80px;
+  width: 1200px;
+  background-color: rgb(27, 27, 54);
+  margin-left: 30px;
+  margin-bottom: 30px;
+  color: white;
+  padding-top: 25px;
+  padding-left: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.fa-solid.fa-plus {
+  padding-right: 60px;
+  font-size: 30px;
+}
+
+.div_big {
+  height: 200px;
+  width: 1200px;
+  background-color: rgb(27, 27, 54);
+  margin-bottom: 30px;
+  margin-left: 30px;
+  color: white;
+  padding-top: 25px;
+  padding-left: 30px;
+}
+
+.Container3 {
+  margin-left: 100px;
+}
+
+.Container4p {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+.paracontainer {
+  text-align: center;
+}
+
+.Container4 {
+  display: flex;
+  justify-content: center;
+}
